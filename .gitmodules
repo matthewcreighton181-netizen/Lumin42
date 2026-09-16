@@ -1,0 +1,9 @@
+[submodule "reference-tools/orca"]
+	path = reference-tools/orca
+	url = https://github.com/stablyai/orca.git
+[submodule "reference-tools/open-code-review"]
+	path = reference-tools/open-code-review
+	url = https://github.com/alibaba/open-code-review.git
+[submodule "reference-tools/security-audit-skill"]
+	path = reference-tools/security-audit-skill
+	url = https://github.com/cloudflare/security-audit-skill.git
