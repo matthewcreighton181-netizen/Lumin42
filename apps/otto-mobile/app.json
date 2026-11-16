@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Otto",
+    "slug": "otto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.lumin42.otto"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#07060d",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.lumin42.otto"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "backgroundColor": "#07060d",
+    "splash": {
+      "backgroundColor": "#07060d",
+      "image": "./assets/icon.png",
+      "resizeMode": "contain"
+    }
+  }
+}

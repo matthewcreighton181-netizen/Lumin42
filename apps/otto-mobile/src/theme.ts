@@ -1,0 +1,15 @@
+export const C = {
+  bg: "#07060d",
+  bg2: "#0e0c18",
+  card: "rgba(255,255,255,0.05)",
+  line: "rgba(255,255,255,0.09)",
+  line2: "rgba(167,139,250,0.35)",
+  fg: "#f3f1f8",
+  mut: "#9d98ad",
+  vi: "#a78bfa",
+  vi2: "#7c5cff",
+  gold: "#f3d892",
+  ok: "#5ee0a8",
+  warn: "#f0b35a",
+  road: "#8f9bff",
+};
