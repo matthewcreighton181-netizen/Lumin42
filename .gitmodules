@@ -7,3 +7,6 @@
 [submodule "reference-tools/security-audit-skill"]
 	path = reference-tools/security-audit-skill
 	url = https://github.com/cloudflare/security-audit-skill.git
+[submodule "reference-tools/reverse-api-engineer"]
+	path = reference-tools/reverse-api-engineer
+	url = https://github.com/kalil0321/reverse-api-engineer.git
